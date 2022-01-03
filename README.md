@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Muito prazer, Eu sou o <a href="https://www.linkedin.com/in/jefferson-ventura-047682208/"><i>Jefferson Ventura</i></a> 😃️</h1>
-  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://unifeob.edu.br/"><i>UNIFEOB – Centro Universitário Fundação de Ensino Octávio Bastos</i></a>
+  <h1 align="center">Seja bem-vindo ao meu perfil, sou o <a href="https://www.linkedin.com/in/jefferson-ventura-047682208/"><i>Jefferson Ventura</i></a> 😃️</h1>
+  <p align="center">Atualmente estou cursando Análise e Desenvolvimento de Sistemas na <a href="https://unifeob.edu.br/"><i>UNIFEOB – Centro Universitário Fundação de Ensino Octávio Bastos</i></a>
 </div>
 
 
